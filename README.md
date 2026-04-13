@@ -92,10 +92,6 @@ lib/
   ...
 ```
 
-## What to commit
-
-Commit source code, docs, and config files only.
-Do not commit build output, dependency folders, logs, or local caches.
 
 ## Quick checks before push
 
